@@ -6,6 +6,9 @@
 //  Copyright © 2016 黎景. All rights reserved.
 //
 
+//注意注意注意！这段代码在mac上可以运行，windows因为字符识别和mac不太一样
+
+
 #include <iostream>
 #include "string"
 using namespace std;
